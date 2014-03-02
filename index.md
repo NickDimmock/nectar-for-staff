@@ -7,5 +7,5 @@ title: NECTAR for Staff
 - [Logging in](logging-in.html)
 - [Changing your password](changing-your-password.html)
 
-It is, as they say, under construction{:.huge}.
+It is, as they say, under construction{: .huge}.
 {: #uc}
